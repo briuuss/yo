@@ -1,0 +1,416 @@
+.reveal .dialog-content {
+	padding: 20px;
+	line-height: 1.5em;
+}
+
+button.close-button {
+	background: none;
+	border: 0;
+	padding: 3px 0;
+}
+div.reveal .re div, div#complain_re {
+	border: 0;
+	padding: 15px;
+	border-radius: 2px;
+	background-color: #f7f8fb;
+	font-size: 1.14em;
+	line-height: 1.5em;
+	margin: 20px 0 0;
+}
+div#complain_re {
+	margin: 0 0 10px;
+	background-color: #fff0f0;
+}
+div.reveal .re div > span {display: block}
+div.contact-form .submit-block {padding: 10px 0 0}
+div.dialog-title, div.reveal h1 {
+	background-color: #e3e7f0;
+	padding: 16px 20px;
+	font-size: 1.15em;
+	font-weight: 500;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+	margin: 0;
+}
+.orange div.dialog-title {
+	background: #ff6633;
+	color: #fff;
+}
+.orange button.close-button {color: #fff;}
+div.reveal #message_form, div.reveal #cf , div.reveal #ff {padding: 0 20px 20px;}
+div.reveal #cf , div.reveal #ff {margin: 20px 0 0;}
+div.reveal .container.hidden {display: none}
+div.reveal .container {
+	display: flex;
+	flex-direction: column;
+}
+div.reveal .container.from-container {flex-direction: row;}
+div.reveal .container.from-container div.label-nopad {
+	width: auto;
+	padding-right: 10px;
+}
+div.reveal .container.from-container div.input {margin: 0}
+
+div.reveal #select-complain .container {
+	flex-direction: row;
+	margin-bottom: 10px;
+}
+#label_is_reason {font-weight: bold}
+div.reveal div.label{
+	display: none;
+	margin: 0 0 7px;
+	color: #525c69;
+	float: none;
+}
+div.reveal .contact-form.job input.button {height: 48px;}
+div.reveal .contact-form.job div.label {
+	display: inline-block;
+	color: #828b95;
+	margin: 16px 0 0;
+	width: auto;
+}
+div.reveal .contact-form.job div.input {
+	margin: 5px 0 0;
+}
+div.reveal .contact-form.job div.input input[type=text] {
+	max-width: none;
+}
+
+.reveal div.contact-form .label.req:after {
+	content: "*";
+	color: #d0021b;
+	margin-left: 5px;
+}
+.reveal .contact-form.job .check > div:first-child {flex-shrink: 0;}
+.reveal .contact-form.job .check {
+	line-height: 1.5em;
+	margin-top: 24px;
+	display: flex;
+	flex-direction: row;
+}
+.reveal .contact-form.job .check label {
+	color: #3c4043;
+	opacity: 0.5;
+}
+.reveal .icheckbox_nice {margin-right: 9px;}
+.contact-form.job .wSelect-theme-flagma.wSelect,
+.contact-form.job .wSelect-theme-flagma .wSelect-options-holder {
+	min-width: 381px;
+	max-width: none;
+	width: 100% !important;
+}
+.contact-form.job .wSelect-theme-flagma.wSelect {border: solid 1px #d5d9e0;}
+
+div.reveal div.label-nopad {
+	margin: 0 0 3px;
+	color: #525c69;
+	float: none;
+}
+div.reveal div.input {
+	margin: 0 0 14px;
+	float: none;
+}
+div.reveal .has-hint div.input {margin-bottom: 4px;}
+div.reveal .container .hint {
+	margin-bottom: 14px;
+	color: #525c69;
+	opacity: 0.6;
+	font-size: 0.86em;
+}
+div.reveal div.input input[type=text], div.reveal textarea {width:100%;}
+/*div.reveal div.input input[type=text] {max-width:445px;}*/
+div.contact-form .from-company-data {
+	color: #4a4a4a;
+}
+div.reveal #message_message {padding: 20px;}
+div.contact-form .from-container {
+	display: none;
+}
+
+div.reveal div.warning-pay span {color: #232c37;}
+div.reveal div.warning-pay {
+	background: #f7f8fb;
+	border-radius: 2px;
+	padding: 10px 15px;
+	color: #5c6979;
+	font-size: 13px;
+	margin-top: 20px;
+	line-height: 1.4em;
+}
+
+div.dialog-sub-title {
+	color: #333;
+	margin: 18px 0 10px;
+	font-weight: bold;
+	text-align: center;
+}
+div.reveal-content {
+	padding: 30px 20px 40px;
+	position: relative;
+}
+#contactDialog div.avatar {
+	text-align: center;
+}
+#contactDialog div.avatar > * {
+	width: 60px;
+	height: 60px;
+	background-color: #dfe1ef;
+	border-radius: 35px;
+	display: inline-block;
+}
+#contactDialog div.avatar div.no-avatar {
+	background: url("") no-repeat center #dfe1ef;
+	background-size: 46px;
+}
+#contactDialog div.user-name {
+	text-align: center;
+	margin-top: 5px;
+	font-size: 1.7em;
+}
+#contactDialog div.user-position {
+	text-align: center;
+	color: #9ea9b8;
+	margin-top: 2px;
+}
+#contactDialog .phones {
+	text-align: center;
+	line-height: 1.4em;
+	font-size: 1.29em;
+	padding-bottom: 10px;
+}
+#contactDialog .messengers {text-align: center}
+#contactDialog .messengers a.msgr {margin-top: 0;}
+#contactDialog .phones a {
+	text-align: center;
+	color: #085cc6;
+}
+#contactDialog .tell-that {
+	color: #9ea9b8;
+	margin-top: 16px;
+	text-align: center;
+	font-size: 0.8em;
+}
+
+body .reveal {
+	padding: 0;
+	border-radius: 5px;
+	outline: none;
+	overflow-y: auto;
+}
+
+
+#feedback-file-uploader {margin-left: 0; float: left;}
+#feedback-file-uploaded {margin-left: 0;}
+
+.reveal .qq-upload-button {
+	height: 32px;
+	border-radius: 2px;
+	background-color: #e5e7e9;
+	padding: 10px;
+	color: #525c69;
+	line-height: 1em;
+	font-size: 0.86em;
+	font-weight: 500;
+	border: 0;
+}
+
+#upload-cv-block .uploaded-photo b {margin-left: 30px;}
+#upload-cv-block .qq-upload-button.error span {background-blend-mode: difference;}
+#upload-cv-block .qq-upload-button.error {
+	background-color: rgba(236, 10, 5, 0.04);
+	border: 1px dashed #ff5e1d;
+	color: #ff5e1d;
+}
+#upload-cv-block .qq-upload-button {
+	display: inline-block;
+	width: 100%;
+	height: 60px;
+	padding: 20px 10px;
+	text-align:center;
+	background-color: rgba(6, 112, 236, 0.04);
+	border:1px dashed #0670ec;
+	color: #0670ec;
+	border-radius: 2px;
+	font-size: 1.15em;
+}
+#upload-cv-block .qq-upload-button span {
+	background: url("") no-repeat left center;
+	padding-left: 25px;
+}
+
+#my-cv-container {padding: 20px 0 0;}
+#my-cv-container .button {margin: 20px 0;}
+
+#blackfriday-ads .bf-ads-container {display: flex}
+
+.reveal span.hint {
+	margin-top: 5px;
+	font-size: 0.86em;
+	color: #525c69;
+	opacity: 0.6;
+}
+
+.reveal .wSelect-theme-flagma3.wSelect {
+	border-color: #d5d9e0;
+	border-radius: 3px;
+	font-family: Roboto;
+	color: #000;
+	width: 100% !important;
+	max-width: none;
+}
+.reveal .error .wSelect-theme-flagma3.wSelect {
+	border-color: red;
+	transition-duration: 0.7s;
+}
+.reveal .wSelect-theme-flagma3 .wSelect-options-holder {
+	width: 100% !important;
+	max-width: none;
+	border-color: #d5d9e0;
+}
+.reveal .wSelect-theme-flagma3 .wSelect-option {color: #000}
+
+
+.reveal .tabs {
+	display: flex;
+	margin: 15px 0 0;
+}
+.reveal .tabs a:first-child {
+	border-top-left-radius: 2px;
+	border-bottom-left-radius: 2px;
+}
+.reveal .tabs a:last-child {
+	border-top-right-radius: 2px;
+	border-bottom-right-radius: 2px;
+}
+.reveal .tabs a {
+	flex-grow: 1;
+	padding: 14px;
+	text-align: center;
+	text-decoration: none;
+	font-weight: bold;
+	border: solid 1px rgba(158, 169, 184, 0.26);
+}
+.reveal .tabs a.active {
+	color: #fff;
+	background: #ff6633;
+	border: solid 1px #ff6633;
+}
+
+#services-job-ads input.button {margin-right: 7px;}
+#services-job-ads img {
+	width: 190px;
+	float:right;
+	margin: 10px 0 10px 10px;
+}
+
+div.reveal div#feedback-form {padding-top: 0;}
+#push-request-dialog {top: -10px !important; }
+
+@media screen and (max-width: 39.99875em) {
+	body .reveal {border-radius: 0}
+	div.dialog-title, div.reveal h1 {
+		border-top-left-radius: 0;
+		border-top-right-radius: 0;
+	}
+}
+
+@media only screen and (min-width: 551px) {
+	#contactDialog .messengers a.msgr {
+		margin-top: 5px;
+		width: 44px;
+		height: 44px;
+		background-size: 127px !important;
+	}
+	.reveal .messengers a.msgr.viber {background: url("") no-repeat 0 0;}
+	.reveal .messengers a.msgr.telegram {background: url("") no-repeat 0 -86px;}
+	.reveal .messengers a.msgr.whatsapp {background: url("") no-repeat 0 -254px;}
+	.reveal .messengers a.msgr.skype {background: url("") no-repeat 0 -170px;}.reveal .messengers a.msgr.icq {background: url("") no-repeat 0 -340px;}
+	.reveal .messengers a.msgr.icq {background: url("") no-repeat 0 -340px;}
+	.reveal .messengers a.msgr.viber:hover {background: url("") no-repeat -85px 0;}
+	.reveal .messengers a.msgr.telegram:hover {background: url("") no-repeat -85px -86px;}
+	.reveal .messengers a.msgr.whatsapp:hover {background: url("") no-repeat -85px -254px;}
+	.reveal .messengers a.msgr.skype:hover {background: url("") no-repeat -85px -170px;}
+	.reveal .messengers a.msgr.icq:hover {background: url("") no-repeat -85px -340px;}
+
+}
+
+@media only screen and (max-width: 550px) {
+	#contactDialog div.avatar > * {
+		width: 100px;
+		height: 100px;
+		border-radius: 55px;
+	}
+	#contactDialog div.user-name {
+		margin-top: 15px;
+		font-size: 1.7em;
+	}
+	#contactDialog div.user-position {
+		margin-top: 7px;
+		font-size: 1.14em;
+	}
+
+	div.dialog-sub-title {
+		font-size: 1.29em;
+		margin: 20px 0 8px;
+	}
+	#contactDialog .phones {
+		font-size: 1.7em;
+		line-height: 1.7em;
+		padding-bottom: 0;
+	}
+	#contactDialog .tell-that {
+		font-size: 1.14em;
+		margin-top: 25px;
+	}
+
+	#contactDialog .messengers a.msgr {
+		margin-top: 10px;
+		width: 55px;
+		height: 55px;
+		background-size: 170px !important;
+	}
+	.reveal .messengers a.msgr.viber {
+		background: url("") no-repeat 0 0;
+	}
+	.reveal .messengers a.msgr.telegram {
+		background: url("") no-repeat 0 -114px;
+	}
+	.reveal .messengers a.msgr.whatsapp {
+		background: url("") no-repeat 0 -340px;
+	}
+	.reveal .messengers a.msgr.skype {
+		background: url("") no-repeat 0 -228px;
+	}
+	.reveal .messengers a.msgr.icq {
+		background: url("") no-repeat 0 -454px;
+	}
+	.reveal input.button-reg { width: 100% }
+
+	.reveal.ads-dialog input.button {
+		width: 100%;
+	}
+
+	.contact-form.job .wSelect-theme-flagma.wSelect, .contact-form.job .wSelect-theme-flagma .wSelect-options-holder {
+		min-width: auto;
+	}
+	#blackfriday-ads .bf-ads-container {flex-direction: column-reverse}
+	#blackfriday-ads .bf-ads-container img {margin-bottom: 20px;}
+	#blackfriday-ads .bfbutton-reg {width: 100%}
+
+	#services-job-ads input.button {margin: 0 0 10px; width: 100%}
+	#services-job-ads img {
+		width: 80%;
+		float:none;
+		margin: 10px 0;
+	}
+
+	div.reveal div.warning-pay span {display: block}
+	div.reveal div.warning-pay {text-align: center}
+
+	#confirm-dialog .confirm-dialog-message {margin: 50px 0 30px;}
+	#confirm-dialog .button, #mail-spam-dialog input[type=button] {
+		width: 100%;
+		margin: 20px 0 0 !important;
+	}
+
+}

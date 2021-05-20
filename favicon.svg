@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>favicon</title>
+    <g id="favicon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#2B3D61" x="0" y="0" width="256" height="256"></rect>
+        <g id="Group">
+            <rect id="Rectangle" fill="#2B3D61" x="0" y="0" width="256" height="256"></rect>
+            <g id="LOGO_FLAGMA_new-Copy-7" transform="translate(41.000000, 56.000000)">
+                <polygon id="Combined-Shape" fill="#FFFFFF" points="126.558459 0 126.558459 24.2976888 35.1449755 24.2976888 35.1449755 61.0501709 103.609848 61.0501709 103.609848 84.752299 35.1449755 84.752299 35.1449755 146 0 146 0 0"></polygon>
+                <polygon id="Combined-Shape" fill="#FF6633" fill-rule="nonzero" points="144.68088 64.8983149 157.47694 91.6124278 186 95.8925895 165.34044 116.703031 170.272999 146 144.68088 132.200168 119.160248 146 124.02132 116.703031 103.361761 95.8925895 131.956307 91.6124278"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

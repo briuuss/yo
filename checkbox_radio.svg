@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="291px" height="22px" viewBox="0 0 291 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54 (76480) - https://sketchapp.com -->
+    <title>checkbox_radio</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="22" height="22" rx="2"></rect>
+        <filter x="-6.8%" y="-6.8%" width="113.6%" height="113.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.670588235   0 0 0 0 0.698039216   0 0 0 0 0.737254902  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="30" y="0" width="22" height="22" rx="2"></rect>
+        <filter x="-6.8%" y="-6.8%" width="113.6%" height="113.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.670588235   0 0 0 0 0.698039216   0 0 0 0 0.737254902  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="60" y="0" width="22" height="22" rx="2"></rect>
+        <filter x="-6.8%" y="-6.8%" width="113.6%" height="113.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.670588235   0 0 0 0 0.698039216   0 0 0 0 0.737254902  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="151" y="1" width="20" height="20" rx="10"></rect>
+        <filter x="-7.5%" y="-7.5%" width="115.0%" height="115.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.670588235   0 0 0 0 0.698039216   0 0 0 0 0.737254902  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="181" y="1" width="20" height="20" rx="10"></rect>
+        <filter x="-7.5%" y="-7.5%" width="115.0%" height="115.0%" filterUnits="objectBoundingBox" id="filter-10">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.670588235   0 0 0 0 0.698039216   0 0 0 0 0.737254902  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-11" x="0" y="0" width="20" height="20" rx="10"></rect>
+        <filter x="-7.5%" y="-7.5%" width="115.0%" height="115.0%" filterUnits="objectBoundingBox" id="filter-12">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.670588235   0 0 0 0 0.698039216   0 0 0 0 0.737254902  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="obyava_full_v2-промежуточный" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-44.000000, -775.000000)">
+            <g id="checkbox_radio" transform="translate(44.000000, 775.000000)">
+                <g id="Rectangle">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <rect stroke="#ABB2BC" stroke-width="1" stroke-linejoin="square" x="0.5" y="0.5" width="21" height="21" rx="2"></rect>
+                </g>
+                <rect id="Rectangle-Copy-5" stroke="#D7D9DC" fill="#FFFFFF" x="90.5" y="0.5" width="21" height="21" rx="2"></rect>
+                <rect id="Rectangle-Copy-11" stroke="#D7D9DC" fill="#FFFFFF" x="120.5" y="0.5" width="21" height="21" rx="2"></rect>
+                <g id="Rectangle-Copy-3">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <rect stroke="#FF6633" stroke-width="1" stroke-linejoin="square" x="30.5" y="0.5" width="21" height="21" rx="2"></rect>
+                </g>
+                <g id="Rectangle-Copy-9">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <rect stroke="#ABB2BC" stroke-width="1" stroke-linejoin="square" x="60.5" y="0.5" width="21" height="21" rx="2"></rect>
+                </g>
+                <path d="M68.0710678,11.0710678 L77.0710678,11.0710678 L77.0710678,14.0710678 L68.0710678,14.0710678 L65.0710678,14.0710678 L65.0710678,6.07106781 L68.0710678,6.07106781 L68.0710678,11.0710678 Z" id="Combined-Shape" fill="#FF6633" transform="translate(71.071068, 10.071068) rotate(-45.000000) translate(-71.071068, -10.071068) "></path>
+                <path d="M128.071068,11.0710678 L137.071068,11.0710678 L137.071068,14.0710678 L128.071068,14.0710678 L125.071068,14.0710678 L125.071068,6.07106781 L128.071068,6.07106781 L128.071068,11.0710678 Z" id="Combined-Shape" fill="#D7D9DC" transform="translate(131.071068, 10.071068) rotate(-45.000000) translate(-131.071068, -10.071068) "></path>
+                <g id="Rectangle-Copy-12">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                    <rect stroke="#ABB2BC" stroke-width="1" stroke-linejoin="square" x="151.5" y="1.5" width="19" height="19" rx="9.5"></rect>
+                </g>
+                <rect id="Rectangle-Copy-13" stroke="#D7D9DC" fill="#FFFFFF" x="241.5" y="1.5" width="19" height="19" rx="9.5"></rect>
+                <g id="Group-4" transform="translate(271.000000, 1.000000)">
+                    <rect id="Rectangle-Copy-14" stroke="#D7D9DC" fill="#FFFFFF" x="0.5" y="0.5" width="19" height="19" rx="9.5"></rect>
+                    <circle id="Oval" fill="#D7D9DC" cx="10" cy="10" r="4"></circle>
+                </g>
+                <g id="Rectangle-Copy-15">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                    <rect stroke="#FF6633" stroke-width="1" stroke-linejoin="square" x="181.5" y="1.5" width="19" height="19" rx="9.5"></rect>
+                </g>
+                <g id="Group-2" transform="translate(211.000000, 1.000000)">
+                    <g id="Rectangle-Copy-19">
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                        <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                        <rect stroke="#ABB2BC" stroke-width="1" stroke-linejoin="square" x="0.5" y="0.5" width="19" height="19" rx="9.5"></rect>
+                    </g>
+                    <circle id="Oval" fill="#FF6633" cx="10" cy="10" r="4"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
